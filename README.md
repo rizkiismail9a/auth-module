@@ -1,4 +1,4 @@
-<h1 align="center" >🔑 Auth Module</h1>
+<h1 align="center" >🔑 Auth Module (2026)</h1>
 <p align="center">Zero-boilerplate authentication support for Nuxt 2!</p>
 
 <p align="center">
